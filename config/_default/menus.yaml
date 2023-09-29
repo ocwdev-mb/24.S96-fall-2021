@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 9de45d59-4a97-46d3-a574-6186ff07631c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8a860a5a-0ec1-47ed-8e28-e79c36b280e6
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
+  name: Assigned Readings and Viewings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: fe34f782-0d10-434d-a2b2-383b9e8d2770
+  name: Lecture Videos
+  pageRef: /pages/lecture-videos
+  weight: 40
+- identifier: ce1c504a-45b6-45e6-b5b7-5d3a11478807
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: fa9b4931-a66b-4b1d-a50e-f14ac336ad02
+  name: General Bibliography
+  pageRef: /pages/general-bibliography
+  weight: 60
+- identifier: ed92c098-b1cd-49a0-8eab-f835052af2ee
+  name: Additional Resources
+  pageRef: /pages/additional-resources
+  weight: 70
